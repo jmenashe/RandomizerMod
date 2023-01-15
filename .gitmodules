@@ -1,0 +1,12 @@
+[submodule "Submodules/RandomizerCore"]
+	path = Submodules/RandomizerCore
+	url = git@github.com:homothetyhk/RandomizerCore.git
+[submodule "Submodules/API"]
+	path = Submodules/API
+	url = git@github.com:hk-modding/api.git
+[submodule "Submodules/HollowKnight.MenuChanger"]
+	path = Submodules/HollowKnight.MenuChanger
+	url = git@github.com:homothetyhk/HollowKnight.MenuChanger.git
+[submodule "Submodules/HollowKnight.ItemChanger"]
+	path = Submodules/HollowKnight.ItemChanger
+	url = git@github.com:homothetyhk/HollowKnight.ItemChanger.git
